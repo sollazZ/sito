@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x226cf9a3959a28f1fc09d57eee8ca66193f53c58",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x54a85bf0801fe7ee4ac1af2ace342b4332dc15e89df7766c6d161f542cfbd96f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Portraits Of People",
+  "SYMBOL": "POP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/portraits-of-people-v4",
+  "SHOW_BACKGROUND": true
+}
